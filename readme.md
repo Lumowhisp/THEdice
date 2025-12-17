@@ -1,4 +1,5 @@
 # 🎲 The Dice Game
+/////
 
 A small frontend exercise built using **HTML, Tailwind CSS, and JavaScript**.  
 Two dice roll randomly every time the page is refreshed, and the winner is decided based on the higher number. If both dice show the same value, the result is a draw.
